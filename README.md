@@ -11,6 +11,8 @@
  - firebase setup
  - deploying our app to production
 
+ - setting up Redux Store 
+
 
 # Features
  - Login/Signup
